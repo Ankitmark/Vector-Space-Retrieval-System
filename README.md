@@ -22,5 +22,6 @@ Determine the average precision and recall for the ten queries, when you use:
 • top 50 documents in the ranking
 • top 100 documents in the ranking
 • top 500 documents in the ranking
+
 Note: A list of relevant documents for each query is provided to you, so that you can determine
 precision and recall.
